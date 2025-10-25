@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"H21161";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"SUPPLIER";"Parco, Inc.";"";
+"Height_in";"1";"";
+"TraceParts.PartNumber";"90-01092022-030555";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"H21161 10S RUBBER PANEL GASKET BY THE FOOT";"";
+"Part_Number_ProductPage_URL";"https://parco-inc.com/product/h21161-10-s-rubber-panel-gasket-by-the-foot/";"";
+"Weight_lbs";"0.014";"";
+"TraceParts.PartTitle";"H21161 10S RUBBER PANEL GASKET BY THE FOOT";"";
+"Series";"10";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Length_in";"12";"";
+"Width_in";"1";"";
+"TraceParts.InstanceId";"90-01092022-03055578P2ST6ENTHNY6M228NL8S6AD";"";
