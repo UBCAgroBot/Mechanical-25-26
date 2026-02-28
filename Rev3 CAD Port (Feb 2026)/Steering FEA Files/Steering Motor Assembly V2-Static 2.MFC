@@ -1,0 +1,16 @@
+[StartTime]
+Steering Motor Assembly V2-Static 2.MFC=13m:30s
+[SolverState]
+Steering Motor Assembly V2-Static 2.MFC=1
+[MainFrame]
+Steering Motor Assembly V2-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPBCBAAAAAFMAAAAAAJICAAAAABPCAAAAA
+[ShowMin]
+Steering Motor Assembly V2-Static 2.MFC=No
+[SolverType]
+Steering Motor Assembly V2-Static 2.MFC=Linear Analysis
+[StudyType]
+Steering Motor Assembly V2-Static 2.MFC=0
+[StudyName]
+Steering Motor Assembly V2-Static 2.MFC=Static 2
+[Solver]
+Steering Motor Assembly V2-Static 2.MFC=Sparse
