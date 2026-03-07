@@ -1,2 +1,2 @@
-Number of Contacts: 7
-Number of contact data: 59060
+Number of Contacts: 9
+Number of contact data: 5533
