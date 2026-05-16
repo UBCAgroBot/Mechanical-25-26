@@ -1,0 +1,14 @@
+Please save the Master Assembly folder just in the under Master Cad Folder.
+
+Under Chassis/Powertrain/Steering - Have your subassemblies saved here including all parts and a master subassembly of the subsystem
+
+Instructions on likely best way to complete this:
+
+	To integrate, please pack and go each subsystem into the subassembly folder if you have the subassembly
+
+	If you do not have a subassembly and only integrated into a main CAD, you can create a new subassembly with the following steps:
+		1. Ctr + Select the parts that you want in a subassembly
+		2. Right-click
+		3. Choose form new assembly
+		4. fix any broken mates. (sometimes faster to just delete the mates and remake them)
+
